@@ -3,4 +3,6 @@ Get Random generated password for all your websites and saved them to a database
 search for any website's password easily. 
 A simple application that makes your life easier.
 
+This desktop application was made usin]g python and TKInter library.
+
 ![ps1](https://user-images.githubusercontent.com/83102811/183750378-659e1f65-b868-47fb-9bd0-7a144c3576ae.JPG)
